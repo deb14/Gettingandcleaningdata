@@ -12,7 +12,7 @@ The code will do the following steps on UCIHAR dataset
 2.Extract only the measurements on the mean and standard deviation for each measurement
 3.Use descriptive activity names to name the activities in the data set
 4.Label the data set with descriptive activity names as directed
-5.Create a tidy dataset and save it in the working directory
+5.Create a tidy dataset and save it in the working directory (tidydata.txt)
 
 
 ==================================================================
