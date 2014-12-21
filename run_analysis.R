@@ -9,7 +9,7 @@
 
 
 #Provide the working directory path for the loc variable and setting the work directory
-loc<-"C:/Users/z075313/Dropbox/R/Getting&CleaningData"
+loc<-"Please provide the working directory path here"
 setwd(loc)
 
 #Downloading the file from the source followed by unzipping
