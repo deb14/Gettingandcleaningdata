@@ -7,6 +7,7 @@ And each step is explained in the Code
 
 
 Data source:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 The code will do the following steps on UCIHAR dataset
 
 1.Merge the training & test dataset
@@ -19,7 +20,7 @@ The code will do the following steps on UCIHAR dataset
 
 5.Create a tidy dataset and save it in the working directory (tidydata.txt)
 
-Note: While running the code user need to set the working directory in th evairable "loc"
+Note: While running the code user need to set the working directory in the vairable "loc"
 
 ==================================================================
 Data information:
