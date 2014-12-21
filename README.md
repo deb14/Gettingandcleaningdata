@@ -13,7 +13,7 @@ The code will do the following steps on UCIHAR dataset
 3.Use descriptive activity names to name the activities in the data set
 4.Label the data set with descriptive activity names as directed
 5.Create a tidy dataset and save it in the working directory (tidydata.txt)
-
+Note: While running the code user need to set the working directory in th evairable "loc"
 
 ==================================================================
 Data information:
